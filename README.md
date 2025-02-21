@@ -3,6 +3,13 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Zane+Sing;+Welcome+to+My+Profile!;Always+learning+new+things)](https://git.io/typing-svg)
 
+**📫 How to Reach me:**
+
+<!-- <h1 align='center'> contact🙏 </h1> -->
+[![](https://img.shields.io/badge/Blog-Zane's_Bolg-blue?logo=Link&logoColor=blue&labelColor=black)](https://vanillaholic.github.io/zane.github.io/)
+[![](https://img.shields.io/badge/Gmail-mrsingorxing@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:mrsingorxing@gmail.com)
+![](https://img.shields.io/badge/Wechat-ZaneSing2001-green?logo=Wechat&logoColor=blue&labelColor=black)
+
 <!--   my-skils -->
 
 | Property                                        | Data                                                         |
@@ -23,15 +30,6 @@
 | .                                                            | .                                                            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![zane's github stats](https://github-readme-stats.vercel.app/api?username=Vanillaholic&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanillaholic&theme=radical&layout=compact) |
-
-
-
-**📫 How to Reach me:**
-
-<!-- <h1 align='center'> contact🙏 </h1> -->
-[![](https://img.shields.io/badge/Blog-Zane's_Bolg-blue?logo=Link&logoColor=blue&labelColor=black)](https://vanillaholic.github.io/zane.github.io/)
-[![](https://img.shields.io/badge/Gmail-mrsingorxing@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:mrsingorxing@gmail.com)
-![](https://img.shields.io/badge/Wechat-ZaneSing2001-green?logo=Wechat&logoColor=blue&labelColor=black)
 
 ---
 
