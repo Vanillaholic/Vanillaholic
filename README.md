@@ -22,7 +22,7 @@
 ### 📈 GitHub Activity Graph:
 
 <!--   green snake -->
-[![](https://raw.githubusercontent.com/Vanillaholic/Vanillaholic/output/github-contribution-grid-snake.svg)](https://Vanillaholic.github.io/zane.github.io )
+![Zane's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 <!--   stats + languages -->
 
 | .                                                            | .                                                            |
