@@ -22,19 +22,20 @@
 ### 📈 GitHub Activity Graph:
 
 <!--   green snake -->
-![Zane's github activity graph](https://raw.githubusercontent.com/Vanillaholic/Vanillaholic/output/github-contribution-grid-snake.svg)
+![BEPb's github activity graph](https://raw.githubusercontent.com/Vanillaholic/Vanillaholic/output/github-contribution-grid-snake.svg)
 <!--   stats + languages -->
 
 | .                                                            | .                                                            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![zane's github stats](https://github-readme-stats.vercel.app/api?username=Vanillaholic&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanillaholic&theme=radical&layout=compact) |
 
-**:Link:My Blog :** https://Vanillaholic.github.io/zane.github.io 
+
 
 **📫 How to Reach me:**
 
 - Gmail:mrsingorxing@gmail.com
 - WeChat:ZaneSing2001
+- Blog:https://Vanillaholic.github.io/zane.github.io 
 
 ---
 
