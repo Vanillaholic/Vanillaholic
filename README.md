@@ -28,9 +28,10 @@
 
 **📫 How to Reach me:**
 
-- Gmail:mrsingorxing@gmail.com
-- WeChat:ZaneSing2001
-- Blog:https://Vanillaholic.github.io/zane.github.io 
+<!-- <h1 align='center'> contact🙏 </h1> -->
+[![](https://img.shields.io/badge/Portfolio-https://zane.github.io/-blue?logo=Portfolio&logoColor=blue&labelColor=black)](https://zane.github.io/)
+[![](https://img.shields.io/badge/Gmail-mrsingorxing@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:mrsingorxing@gmail.com)
+![](https://img.shields.io/badge/Wechat-ZaneSing2001-green?logo=Wechat&logoColor=blue&labelColor=black)
 
 ---
 
