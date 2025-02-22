@@ -8,7 +8,7 @@
 <!-- <h1 align='center'> contact🙏 </h1> -->
 [![](https://img.shields.io/badge/Blog-Zane's_Bolg(cancelled)-blue?logo=Link&logoColor=blue&labelColor=black)](https://vanillaholic.github.io/)
 [![](https://img.shields.io/badge/Gmail-mrsingorxing@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:mrsingorxing@gmail.com)
-![](https://img.shields.io/badge/Wechat-ZaneSing2001-green?logo=Wechat&logoColor=blue&labelColor=black)
+[![](https://img.shields.io/badge/Wechat-ZaneSing2001-green?logo=Wechat&logoColor=blue&labelColor=black)](https://u.wechat.com/MK52i9Top3CnpbBNLCHXzFQ?s=2)
 
 <!--   my-skils -->
 
