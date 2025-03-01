@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/Gmail-mrsingorxing@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:mrsingorxing@gmail.com)
 [![](https://img.shields.io/badge/Wechat-ZaneSing2001-green?logo=Wechat&logoColor=blue&labelColor=black)](https://u.wechat.com/MK52i9Top3CnpbBNLCHXzFQ?s=2)
 
-### just a noob...
+## <center>No More Introduction ，Just a Noob...</center>
 
 <!--   my-skils -->
 
