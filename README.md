@@ -6,7 +6,7 @@
 **📫 How to Reach me:**
 
 <!-- <h1 align='center'> contact🙏 </h1> -->
-[![](https://img.shields.io/badge/dynamic/xml.svg?color=lightgrey&label=t.me/awesomeguangzhou&query=%2F%2Fchannel%2Ffeeds%2Ffeed%2Ffield3&url=https%3A%2F%2Fapi.thingspeak.com%2Fchannels%2F343156%2Ffeeds.xml%3Fresults%3D1&suffix=%20subscribers)](https://vanillaholic.github.io/)
+[![](https://img.shields.io/badge/Blog-Zane's_Bolg-blue?logo=Link&logoColor=blue&labelColor=black)](https://vanillaholic.github.io/)
 [![](https://img.shields.io/badge/Gmail-mrsingorxing@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:mrsingorxing@gmail.com)
 [![](https://img.shields.io/badge/Wechat-ZaneSing2001-green?logo=Wechat&logoColor=blue&labelColor=black)](https://u.wechat.com/MK52i9Top3CnpbBNLCHXzFQ?s=2)
 
